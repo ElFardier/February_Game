@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2b9a718dc622434bad08c7e672f7513
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myAnimationController: {instanceID: 0}
+  - Yaaay: {fileID: 8300000, guid: a59d8e1aa5bffb64eb0c9682eb7b090c, type: 3}
+  - ambient: {fileID: 8300000, guid: 41733f84748b2344da990a475b70e815, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
